@@ -84,7 +84,7 @@ After completing this lab, you will be able to:
     - **Username:** +++Contoso\\Administrator+++
     - **Password:** +++LS1setup!+++
 
-    ![](media/f3170e66706f9d7ba99b760277d9accc.png)
+    !IMAGE[001.png](001.png)
 
 1.  [] Start **Exchange Management Shell** (EMS), by typing the command below at the DOS prompt:
 
