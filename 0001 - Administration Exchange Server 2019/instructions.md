@@ -90,7 +90,7 @@ After completing this lab, you will be able to:
 
     +++LaunchEMS+++
 
-    ![](media/dd92de5c0344b5160b808eb3b12e2e92.png)
+    !IMAGE[](media/dd92de5c0344b5160b808eb3b12e2e92.png)
         
 1.  [] Enter the following command:
 
