@@ -90,7 +90,7 @@ After completing this lab, you will be able to:
 
     +++LaunchEMS+++
 
-    !IMAGE[](media/dd92de5c0344b5160b808eb3b12e2e92.png)
+    !IMAGE[](https://github.com/rndstudylabs/RnDLabs/blob/main/0001%20-%20Administration%20Exchange%20Server%202019/Media/dd92de5c0344b5160b808eb3b12e2e92.png?raw=true)
         
 1.  [] Enter the following command:
 
